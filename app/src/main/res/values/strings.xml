@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="add_contact">Add contact</string>
+    <string name="sort">Sort your contacts</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="close">Close</string>
+    <string name="call">Call</string>
+    <string name="log_out">Log out</string>
+    <string name="please_enter_name_and_phone">Please enter Name and Phone</string>
+    <string name="your_name">your name</string>
+    <string name="tap_on_item_to_see_contact_info">Tap on Item to see Contact Info</string>
+</resources>
